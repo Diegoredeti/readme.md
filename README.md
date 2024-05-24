@@ -41,7 +41,7 @@ Completed courses:
 <img height= "100" src="https://s1.static.brasilescola.uol.com.br/be/vestibular/-58481b365e2ed.png">
 
 <a href="https://www.cursoemvideo.com/">
-<img height= "100" src="https://www.google.com/imgres?q=curso%20em%20video%20logo%20png&imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8683385%3Fs%3D280%26v%3D4&imgrefurl=https%3A%2F%2Fgithub.com%2Fcursoemvideo&docid=1Mde1DYcNBGJHM&tbnid=WK6or7wB8ym-KM&vet=12ahUKEwjkkam8s6aGAxXNpZUCHVIEClIQM3oECBoQAA..i&w=280&h=280&hcb=2&ved=2ahUKEwjkkam8s6aGAxXNpZUCHVIEClIQM3oECBoQAA">
+<img height= "100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cursoemvideo.com%2F&psig=AOvVaw0hIEQKIHbQgo96j-LiMROE&ust=1716644027948000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiiu9azpoYDFQAAAAAdAAAAABAE">
 
 ### GitHub Stats
 <div>
