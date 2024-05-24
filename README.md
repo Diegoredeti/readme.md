@@ -32,7 +32,7 @@ I am studying:
 Completed courses:
 
 <div style="display: flex; align-items: center;">
-  <a href="https://cubos.academy/cursos/desenvolvimento-de-software">
+  <a href="https://cubos.academy/cursos/desenvolvimento-de-software" target= "_blank">
     <img height="50px" src="https://assets-global.website-files.com/6092ed75cac3156e208ac5e9/60930427ef6bdd04bf838d53_logo-horizontal-academy2.svg">
   </a>
 </div>
