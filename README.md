@@ -32,7 +32,7 @@ I am studying:
 Completed courses:
 
 <a href="https://cubos.academy/cursos/desenvolvimento-de-software">
-<img height= "100em" src= "https://img.youtube.com/vi/U76V693yhug/hqdefault.jpg">
+<img height= "100em" src= "https://assets-global.website-files.com/6092ed75cac3156e208ac5e9/60930427ef6bdd04bf838d53_logo-horizontal-academy2.svg">
 
 <a href="https://www.coursera.org/professional-certificates/suporte-em-ti-do-google">
 <img height= "120em" src="https://images.credly.com/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png">
