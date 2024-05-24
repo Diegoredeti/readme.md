@@ -42,10 +42,10 @@ Completed courses:
 <img height= "120em" src="https://images.credly.com/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png">
 
 <a href="https://portal.anhembi.br/graduacao/redes-de-computadores/">
-<img height= "100" width= "50px" src="https://s1.static.brasilescola.uol.com.br/be/vestibular/-58481b365e2ed.png">
+<img height= "100" src="https://s1.static.brasilescola.uol.com.br/be/vestibular/-58481b365e2ed.png">
 
 <a href="https://www.cursoemvideo.com/">
-<img height= "100" src="https://blog.geekhunter.com.br/wp-content/uploads/2022/02/logo-curso-em-video.png.webp">
+<img height= "100" widht= "70px" src="https://blog.geekhunter.com.br/wp-content/uploads/2022/02/logo-curso-em-video.png.webp">
 
 ### GitHub Stats
 <div>
