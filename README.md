@@ -41,7 +41,7 @@ Completed courses:
 <img height= "100" src="https://s1.static.brasilescola.uol.com.br/be/vestibular/-58481b365e2ed.png">
 
 <a href="https://www.cursoemvideo.com/">
-<img height= "100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cursoemvideo.com%2F&psig=AOvVaw0hIEQKIHbQgo96j-LiMROE&ust=1716644027948000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiiu9azpoYDFQAAAAAdAAAAABAE">
+<img height= "100" src="https://blog.geekhunter.com.br/wp-content/uploads/2022/02/logo-curso-em-video.png.webp">
 
 ### GitHub Stats
 <div>
