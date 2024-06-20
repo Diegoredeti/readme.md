@@ -2,7 +2,7 @@
 
 About me:
 
-Formado em Redes de Computador e com certificação em Suporte Técnico, minha carreira se expandiu para o desenvolvimento de software Backend e ultimamente venho atuando na camada Front-end com desenvolivmento e manutenção de websites. Minha jornada até aqui inclui Javascript, HTML, CSS, bancos de dados SQL, integração de serviços Web, autenticação e o desenvolvimento de API´s RESTful. Venho constantemente aprimorando minhas habilidades e aplicando as melhores práticas de desenvolvimento para entregar soluções eficientes.
+Formado em Redes de Computador e com certificação em Suporte Técnico, minha carreira se expandiu para o desenvolvimento de software Backend e ultimamente venho atuando na camada Front-end com desenvolivmento e manutenção de websites. Minha jornada até aqui inclui Javascript, um pouquinho de PHP, HTML, CSS, bancos de dados SQL, integração de serviços Web, autenticação e o desenvolvimento de API´s RESTful. Venho constantemente aprimorando minhas habilidades e aplicando as melhores práticas de desenvolvimento para entregar soluções eficientes.
 
 Main Stack:
 
