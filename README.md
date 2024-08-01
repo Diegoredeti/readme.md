@@ -42,7 +42,8 @@ Completed courses:
 <img height= "120em" src="https://images.credly.com/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png">
 
 <a href="https://portal.anhembi.br/graduacao/redes-de-computadores/">
-<img height= "100" src="https://s1.static.brasilescola.uol.com.br/be/vestibular/-58481b365e2ed.png">
+<img height= "100" src="![png-clipart-anhembi-morumbi-university-student-laureate-international-universities-vestibular-exam-student-text-trademark](https://github.com/user-attachments/assets/acaa12bb-62c5-41c6-96fd-4186935f5bee)
+">
 
 <a href="https://www.cursoemvideo.com/">
 <img height= "100" widht= "50px" src="https://blog.geekhunter.com.br/wp-content/uploads/2022/02/logo-curso-em-video.png.webp">
