@@ -42,7 +42,7 @@ Completed courses:
 <img height= "120em" src="https://images.credly.com/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png">
 
 <a href="https://portal.anhembi.br/graduacao/redes-de-computadores/">
-<img height= "100" src="![png-clipart-anhembi-morumbi-university-student-laureate-international-universities-vestibular-exam-student-text-trademark](https://github.com/user-attachments/assets/acaa12bb-62c5-41c6-96fd-4186935f5bee)
+<img height= "100" src="[![png-clipart-anhembi-morumbi-university-student-laureate-international-universities-vestibular-exam-student-text-trademark](https://github.com/user-attachments/assets/acaa12bb-62c5-41c6-96fd-4186935f5bee)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvestibular.brasilescola.uol.com.br%2Fnoticias%2Fanhembi-morumbi-sp-divulga-resultado-vestibular-medicina-2017%2F337895.html&psig=AOvVaw0dQk_wC7cpwGv1v6QwhcaX&ust=1722719672474000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDuwoud14cDFQAAAAAdAAAAABAJ)
 ">
 
 <a href="https://www.cursoemvideo.com/">
