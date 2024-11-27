@@ -2,7 +2,7 @@
 
 About me:
 
-Formado em Redes de Computador e com certificação em Suporte Técnico, minha carreira se expandiu para o desenvolvimento de software Backend e ultimamente venho atuando na camada Front-end com desenvolivmento e manutenção de websites. Minha jornada até aqui inclui Javascript, um pouquinho de PHP, HTML, CSS, bancos de dados SQL, integração de serviços Web, autenticação e o desenvolvimento de API´s RESTful. Venho constantemente aprimorando minhas habilidades e aplicando as melhores práticas de desenvolvimento para entregar soluções eficientes.
+Sou desenvolvedor Front-End com experiência em criar interfaces dinâmicas e responsivas utilizando HTML5, CSS, JavaScript e frameworks modernos. Minha trajetória é focada no desenvolvimento de sites e aplicações web com atenção à usabilidade, performance e design intuitivo. Além do foco em Front-End, tenho conhecimentos em integração de APIs e práticas básicas de desenvolvimento Back-End, o que me permite colaborar de forma mais abrangente em projetos web. Estou sempre buscando soluções eficientes e aprimorando minhas habilidades para entregar resultados que conectam tecnologia e funcionalidade.
 
 Main Stack:
 
