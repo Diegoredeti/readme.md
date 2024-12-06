@@ -1,4 +1,4 @@
-# Diego Ferreira
+# Diego Maia
 
 About me:
 
