@@ -64,6 +64,6 @@ Contacts:
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-Portfólio
+## Portfólio
 
-<a href="https://diegomaia.dev/"/>
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-%230077B5.svg?style=for-the-badge)](https://diegomaia.dev/)
